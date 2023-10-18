@@ -5,7 +5,7 @@ nav{
     background-color: #2c3e50;
     color: white;
 }
-.START, .ABOUT{
+.start, .about{
     background-color: #1abc9c;
     color: white;
 }
@@ -13,19 +13,14 @@ nav{
     width: 13rem;
 }
 .immagine{
-    width: 25rem;
+    max-width:100%;
     border-radius: 25px;
 }
-.INFO{
+.info{
     background-color:#2c3e50;
     color: white;
 }
 footer{
     background-color: #2c3e50;
     color: white;
-}
-@media screen and (max-width:1121px){
-    .immagine{
-
-    }
 }
